@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Sauerbraten",
+    "Description": "Roast Beef Stew",
+    "Price": 11.93,
+    "CurrentStatus": "Available",
+    "MinutesToBeServed": 20,
+    "TotalCalories": 199,
+    "Category": "main course",
+    "WhenItIsAvailable": [ "dinner", "weekdays", "weekends" ],
+    "FriendlyForWhichDiets": [ "Carnivore", "Keto" ],
+    "FriendlyToWhichReligions": [ "Kosher", "Halal" ],
+    "AllergicReactions": [ "meat", "soy" ],
+    "SideOptions": [ "potato dumplings", "Spätzle", "potato pancakes", "boiled potatoes" ]
+  },
+  {
+    "Name": "Kartoffelpuffer",
+    "Description": "Potato Pancake",
+    "Price": 7.99,
+    "CurrentStatus": "Sold Out",
+    "MinutesToBeServed": 15,
+    "TotalCalories": 268,
+    "Category": "starter",
+    "WhenItIsAvailable": [ "dinner", "weekdays", "weekends" ],
+    "FriendlyForWhichDiets": [ "Vegan" ],
+    "FriendlyToWhichReligions": [ "Kosher", "Halal" ],
+    "AllergicReactions": [ "soy", "dairy", "wheat", "egg" ],
+    "SideOptions": [ "apple sauce", "fruit compote", "yogurt-herb sauce" ]
+  },
+  {
+    "Name": "Schweinshaxe",
+    "Description": "Pork Knuckle",
+    "Price": 15.90,
+    "CurrentStatus": "Sold Out",
+    "MinutesToBeServed": 20,
+    "TotalCalories": 565,
+    "Category": "main course",
+    "WhenItIsAvailable": [ "dinner", "weekdays", "weekends" ],
+    "FriendlyForWhichDiets": [ "Carnivore", "Keto" ],
+    "FriendlyToWhichReligions": [],
+    "AllergicReactions": [ "meat" ],
+    "SideOptions": [ "potato dumplings", "red cabbage", "sauerkraut", "potatoes" ]
+  }
+]
